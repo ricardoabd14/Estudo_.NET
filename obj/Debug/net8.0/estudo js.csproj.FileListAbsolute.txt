@@ -1,0 +1,14 @@
+C:\Users\Qualidade2\Desktop\estudo js\bin\Debug\net8.0\estudo js.exe
+C:\Users\Qualidade2\Desktop\estudo js\bin\Debug\net8.0\estudo js.deps.json
+C:\Users\Qualidade2\Desktop\estudo js\bin\Debug\net8.0\estudo js.runtimeconfig.json
+C:\Users\Qualidade2\Desktop\estudo js\bin\Debug\net8.0\estudo js.dll
+C:\Users\Qualidade2\Desktop\estudo js\bin\Debug\net8.0\estudo js.pdb
+C:\Users\Qualidade2\Desktop\estudo js\obj\Debug\net8.0\estudo js.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qualidade2\Desktop\estudo js\obj\Debug\net8.0\estudo js.AssemblyInfoInputs.cache
+C:\Users\Qualidade2\Desktop\estudo js\obj\Debug\net8.0\estudo js.AssemblyInfo.cs
+C:\Users\Qualidade2\Desktop\estudo js\obj\Debug\net8.0\estudo js.csproj.CoreCompileInputs.cache
+C:\Users\Qualidade2\Desktop\estudo js\obj\Debug\net8.0\estudo js.dll
+C:\Users\Qualidade2\Desktop\estudo js\obj\Debug\net8.0\refint\estudo js.dll
+C:\Users\Qualidade2\Desktop\estudo js\obj\Debug\net8.0\estudo js.pdb
+C:\Users\Qualidade2\Desktop\estudo js\obj\Debug\net8.0\estudo js.genruntimeconfig.cache
+C:\Users\Qualidade2\Desktop\estudo js\obj\Debug\net8.0\ref\estudo js.dll
